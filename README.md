@@ -2,6 +2,7 @@
 <p>
     <em>
         Hi, I'm Adriano! 👋
+        "Every journey begins with a single step."
     </em>
 </p>
 
