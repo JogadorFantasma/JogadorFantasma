@@ -1,8 +1,7 @@
-
+## Every journey begins with a single step
 <p>
     <em>
-        Hi, I'm Adriano! 👋
-        "Every journey begins with a single step."
+        Hi, I'm Adriano! 👋 
     </em>
 </p>
 
