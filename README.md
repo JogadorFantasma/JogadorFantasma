@@ -8,11 +8,11 @@
 ## My Contacts :mailbox_with_mail:
 
 <p align="center">
-   <a href="(https://www.linkedin.com/in/adriano-monteiro-9a2ba033/)">
+   <a href="https://www.linkedin.com/in/adriano-monteiro-9a2ba033/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/adriano-monteiro-9a2ba033/">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="(https://github.com/JogadorFantasma)">
+    <a href="https://github.com/JogadorFantasma">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/JogadorFantasma">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,15 +20,15 @@
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:adrianodevops@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="(https://www.facebook.com/adriano.monteiro.3914/)">
+    <a href="https://www.facebook.com/adriano.monteiro.3914/">
         <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=mailto:https://www.facebook.com/adriano.monteiro.3914/">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="(https://api.whatsapp.com/send?phone=5561983331646&text=Olá!%20Adriano)">
+    <a href="https://api.whatsapp.com/send?phone=5561983331646&text=Olá!%20Adriano">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="(https://www.instagram.com/as_monteiro/)">
+    <a href="https://www.instagram.com/as_monteiro/">
         <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://www.instagram.com/as_monteiro/">
     </a>
 </p>
